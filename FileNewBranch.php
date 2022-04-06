@@ -1,2 +1,3 @@
 <?php
-echo "Testando commit em um novo branch"
+echo "Testando commit em um novo branch";
+echo "Alterado no Branch novoBranch";
