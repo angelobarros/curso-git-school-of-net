@@ -1,1 +1,2 @@
-<?"teste!";?>
+<?phpInfo();?>
+Alteraço na pasta gitCode
